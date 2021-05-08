@@ -44,6 +44,19 @@ header div ul li {
 }
 /* Header styling End */
 
+/* Styling for footer */
+footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+footer h2 {
+    font-size: 20px;
+}
+/* Styling for footer */
+
 a {
     color: #ffffff;
     text-decoration: none;
@@ -132,16 +145,3 @@ p {
     max-width: 150px;
 }
 /* End Styling for right side Media section: Lead generation, Brand Awareness, Cost management */
-
-/* Styling for footer */
-footer {
-    padding: 30px;
-    clear: both;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
-}
-
-footer h2 {
-    font-size: 20px;
-}
-/* Styling for footer */
